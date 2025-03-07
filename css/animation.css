@@ -1,11 +1,11 @@
 /* SNS */
 .sns_btn:nth-child(1)::before {background-color: #2F3138;}
 .sns_btn:nth-child(2)::before {background-color: #fee500;}
-.sns_btn:nth-child(3)::before {background-color: #DA4536;}
+.sns_btn:nth-child(3)::before {background-color: #2e46d1;}
 .sns_btn:nth-child(4)::before {background: rgb(255,0,128);
     background: linear-gradient(140deg, rgba(255,0,128,1) 0%, rgba(254,255,0,1) 100%);}
 .sns_btn:nth-child(5)::before {background-color: #ff0000;}
-.sns_btn:nth-child(6)::before {background-color: #2F3138;}
+.sns_btn:nth-child(6)::before {background-color: #074e00;}
 
 .sns_btn:hover i {
     transform: scale(1.3);
